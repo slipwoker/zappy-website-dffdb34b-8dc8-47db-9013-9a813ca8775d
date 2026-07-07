@@ -1,0 +1,70 @@
+# אוריאור כלי נגינה — Generative Engine Optimization Map
+
+> Orior is an Israeli music store offering a range of music-related products and services. The brand operates in the music retail space, catering to musicians and music enthusiasts. The store's identity is rooted in passion for music, and the landing page should reflect a professional yet approachable tone that appeals to music lovers of all levels.
+
+---
+
+## Pages
+
+### בית
+https://-dffdb34b.zappy5.app
+גלו את עולם המוזיקה שמאחורי הקלעים עם אוריאור כלי נגינה. ציוד מקצועי, שירות אישי וחוויית קנייה ייחודית לכל מוזיקאי. היכנסו עכשיו ותנו למוזיקה להוביל!
+
+### תודה שפניתם אלינו
+https://-dffdb34b.zappy5.app/thank-you
+אוריאור כלי נגינה - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dffdb34b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dffdb34b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dffdb34b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-dffdb34b.zappy5.app
+- Endpoint: https://-dffdb34b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אוריאור כלי נגינה
+Orior is an Israeli music store offering a range of music-related products and services. The brand operates in the music retail space, catering to musicians and music enthusiasts. The store's identity is rooted in passion for music, and the landing page should reflect a professional yet approachable tone that appeals to music lovers of all levels.
+
+## Target Audience
+- מוסיקאים צעירים
+- מורים למוזיקה
+- מוסיקאים חובבים
+
+## Industry
+Music Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-dffdb34b.zappy5.app/sitemap.xml
+- Robots: https://-dffdb34b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-dffdb34b.zappy5.app/llms-full.txt
